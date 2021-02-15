@@ -1,0 +1,23 @@
+	basefuego [70 polys, 102 verts] 'Material #2776'
+		Bofors-Base [780 polys, 933 verts] 'Material #2776'
+			apuntador [1149 polys, 833 verts] 'Material #2776'
+				manijas [119 polys, 120 verts] 'Material #2776'
+			Bofors-sustentor [168 polys, 178 verts] 'Material #2776'
+				roldanas [6 polys, 8 verts] 'Material #2776'
+				Cañon-Bofors [544 polys, 701 verts] 'Material #2776'
+
+
+Num Nodes: 7
+Total:    (2836 polys, 2875 verts)
+Mesh Max: (1149 polys, 933 verts)
+
+1 Materials:
+ (  1) Material #2776:
+       BoforsL60.bmp
+
+1 Textures:
+BoforsL60.bmp
+
+Points
+
+Extents

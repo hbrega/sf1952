@@ -1,0 +1,64 @@
+[MissionData]
+NationName=SOVIET
+ServiceStartYear=1950
+ServiceEndYear=2010
+GroundObjectRole=EW_RADAR
+Availability=COMMON
+Exported=TRUE
+ExportStartYear=1951
+ExportAvailability=COMMON
+
+[GroundObjectData]
+DamagedModel=
+DestroyedModel=Radar_Destroyed.LOD
+DestroyedEffect=VehicleFireEffect
+EmptyMass=36000.00
+Component[001]=Chassis
+Component[002]=Radar
+
+[Sound]
+EngineSoundName=TruckLoop
+MovementSoundName=
+
+[DetectSystem]
+TargetType=AIR
+RadarFamilyName=Firecan
+RadarSearchTime=5.0
+RadarSearchRange=75000.0
+RadarSearchStrength=80
+RadarTrackTime=10.0
+RadarTrackRange=60000.0
+RadarTrackStrength=75
+RadarPosition=0.0,0.0,2.30
+RadarMinimumRange=600.0
+RadarMinimumAlt=1000.0
+RadarSearchFreq=2.8
+RadarTrackFreq=3.2
+RadarCW=FALSE
+DataLink=TRUE
+NetworkType=AAA
+OpticalSight=TRUE
+NightSight=TRUE
+VisualRange=2000.0
+ViewportPosition=0.0,0.0,2.30
+MaxVisibleDistance=8000.0
+RadarCrossSection=100
+
+[Chassis]
+ModelNodeName=RadarCab
+MaxExtentPosition= 1.45, 3.06, 3.16
+MinExtentPosition=-1.45,-3.06, 0.00
+HasArmor=FALSE
+// DetachNode[001]=wheelref1
+// DetachNode[002]=wheel2
+// DetachNode[003]=wheel3
+// DetachNode[004]=wheel4
+
+[Radar]
+ParentComponentName=Chassis
+ModelNodeName=hull
+MaxExtentPosition= 1.50, 1.50, 3.75
+MinExtentPosition=-1.50,-1.50, 3.17
+HasArmor=FALSE
+DetachNode[001]=RadarMast
+DetachNode[002]=RadarDish

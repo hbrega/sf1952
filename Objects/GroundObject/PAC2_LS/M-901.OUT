@@ -1,0 +1,90 @@
+	M-901 (72 polys, 216 verts) '07 - Default'
+		Cylinder11 (30 polys, 90 verts) '08 - Default'
+			Cylinder12 (20 polys, 60 verts) '02 - Default'
+				Box34 (12 polys, 36 verts) '07 - Default'
+					Cylinder15 (30 polys, 90 verts) '07 - Default'
+			Line10 (60 polys, 180 verts) '07 - Default'
+			Box36 (12 polys, 36 verts) '07 - Default'
+		Cylinder14 (30 polys, 90 verts) '08 - Default'
+			Cylinder13 (20 polys, 60 verts) '02 - Default'
+			Cylinder21 (30 polys, 90 verts) '07 - Default'
+			Box40 (12 polys, 36 verts) '07 - Default'
+			Line13 (60 polys, 180 verts) '07 - Default'
+			Box41 (12 polys, 36 verts) '07 - Default'
+		Box25 (18 polys, 54 verts) '07 - Default'
+			Cylinder06 (30 polys, 90 verts) '08 - Default'
+				Line05 (60 polys, 180 verts) '07 - Default'
+				Cylinder05 (20 polys, 60 verts) '02 - Default'
+					Box29 (12 polys, 36 verts) '07 - Default'
+						Cylinder10 (30 polys, 90 verts) '07 - Default'
+					Box39 (12 polys, 36 verts) '07 - Default'
+						Cylinder20 (30 polys, 90 verts) '07 - Default'
+				Box26 (12 polys, 36 verts) '07 - Default'
+				Line12 (60 polys, 180 verts) '07 - Default'
+				Box38 (12 polys, 36 verts) '07 - Default'
+			Cylinder08 (30 polys, 90 verts) '08 - Default'
+				Cylinder09 (20 polys, 60 verts) '02 - Default'
+			tank (32 polys, 96 verts) '07 - Default'
+			cc (8 polys, 24 verts) '07 - Default'
+		Box24 (10 polys, 30 verts) '03 - Default'
+		Box19 (10 polys, 30 verts) '03 - Default'
+		Box15 (10 polys, 30 verts) '03 - Default'
+		Box20 (10 polys, 30 verts) '03 - Default'
+		Box21 (10 polys, 30 verts) '03 - Default'
+		Box22 (10 polys, 30 verts) '03 - Default'
+		Box04 (10 polys, 30 verts) '03 - Default'
+		Box12 (12 polys, 36 verts) '07 - Default'
+			Cylinder01 (20 polys, 60 verts) '07 - Default'
+				Luncher Hod (56 polys, 168 verts) '07 - Default'
+					Cylinder17 (36 polys, 108 verts) '07 - Default'
+						PA (12 polys, 36 verts) '02 - Default'
+							MainPivot (68 polys, 204 verts) '07 - Default'
+								LuncherD (838 polys, 2514 verts) '07 - Default'
+									Box14 (20 polys, 60 verts) '07 - Default'
+									Box02 (12 polys, 36 verts) '07 - Default'
+								LuncherC (838 polys, 2514 verts) '07 - Default'
+									Box44 (20 polys, 60 verts) '07 - Default'
+									Box45 (12 polys, 36 verts) '07 - Default'
+								LuncherB (843 polys, 2529 verts) '07 - Default'
+									Box46 (20 polys, 60 verts) '07 - Default'
+									Box47 (12 polys, 36 verts) '07 - Default'
+								LuncherA (838 polys, 2514 verts) '07 - Default'
+									Box48 (20 polys, 60 verts) '07 - Default'
+									Box49 (12 polys, 36 verts) '07 - Default'
+					Cylinder04 (30 polys, 90 verts) '07 - Default'
+						Cylinder07 (20 polys, 60 verts) '07 - Default'
+					Cylinder16 (30 polys, 90 verts) '07 - Default'
+						Cylinder23 (20 polys, 60 verts) '07 - Default'
+					Box03 (10 polys, 30 verts) '07 - Default'
+						Cylinder22 (30 polys, 90 verts) '07 - Default'
+							Cylinder24 (30 polys, 90 verts) '07 - Default'
+		Line04 (26 polys, 78 verts) '07 - Default'
+		Line08 (26 polys, 78 verts) '07 - Default'
+		Cylinder18 (40 polys, 120 verts) '07 - Default'
+		Cylinder02 (40 polys, 120 verts) '07 - Default'
+		Cylinder03 (40 polys, 120 verts) '07 - Default'
+		Cylinder19 (40 polys, 120 verts) '07 - Default'
+		Box01 (10 polys, 30 verts) '07 - Default'
+		Box13 (10 polys, 30 verts) '07 - Default'
+		Box27 (10 polys, 30 verts) '07 - Default'
+		Box42 (10 polys, 30 verts) '03 - Default'
+		Box43 (10 polys, 30 verts) '03 - Default'
+
+
+Num Nodes: 71
+Total:    (4977 polys, 14931 verts)
+Mesh Max: (843 polys, 2529 verts)
+
+4 Materials:
+ (  1) 07 - Default:
+       Luncher.bmp
+ (  2) 08 - Default:
+       <No Texture>
+ (  3) 02 - Default:
+       <No Texture>
+ (  4) 03 - Default:
+       901.bmp
+
+2 Textures:
+Luncher.bmp
+901.bmp

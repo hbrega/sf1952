@@ -1,0 +1,35 @@
+	Chasis (4145 polys, 12435 verts) 'Material #162'
+		Turret (976 polys, 2928 verts) 'Material #162'
+			GunBarrel (520 polys, 1560 verts) 'Material #162'
+			RadarDish (432 polys, 1296 verts) 'Material #162'
+		Zylinder14 (960 polys, 2880 verts) 'Material #162'
+		Zylinder02 (960 polys, 2880 verts) 'Material #162'
+		Zylinder03 (960 polys, 2880 verts) 'Material #162'
+		Zylinder04 (960 polys, 2880 verts) 'Material #162'
+		Zylinder05 (960 polys, 2880 verts) 'Material #162'
+		Zylinder06 (960 polys, 2880 verts) 'Material #162'
+		Zylinder07 (960 polys, 2880 verts) 'Material #162'
+		Zylinder08 (960 polys, 2880 verts) 'Material #162'
+		Zylinder01 (960 polys, 2880 verts) 'Material #162'
+	Objekt01 (152 polys, 456 verts) 'Material #149'
+	Fenster (12 polys, 36 verts) '23 - Default'
+
+
+Num Nodes: 15
+Total:    (14877 polys, 44631 verts)
+Mesh Max: (4145 polys, 12435 verts)
+
+3 Materials:
+ (  1) Material #162:
+       RolandRad.bmp
+ (  2) Material #149:
+       Transparency enabled
+       Glas.tga
+ (  3) 23 - Default:
+       Transparency enabled
+       Fenster .tga
+
+3 Textures:
+RolandRad.bmp
+Glas.tga
+Fenster .tga

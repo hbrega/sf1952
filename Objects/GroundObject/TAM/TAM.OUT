@@ -1,0 +1,41 @@
+	Chassis [240 polys, 353 verts] 'Material #0'
+		Rodamientos [2992 polys, 3168 verts] '04 - Predeterminado'
+			Orugas [1056 polys, 704 verts] '04 - Predeterminado'
+		Espejo-D [230 polys, 150 verts] '04 - Predeterminado'
+		Gas-Oil [200 polys, 122 verts] '04 - Predeterminado'
+			manguera [120 polys, 91 verts] 'Material #28'
+		Escotilla [202 polys, 301 verts] '04 - Predeterminado'
+			Visor [20 polys, 40 verts] '04 - Predeterminado'
+			Visor01 [20 polys, 40 verts] '04 - Predeterminado'
+			Visor02 [20 polys, 40 verts] '04 - Predeterminado'
+		Torreta [879 polys, 986 verts] '04 - Predeterminado'
+			Cañon [1856 polys, 1236 verts] '04 - Predeterminado'
+				Tubo-Cañon [336 polys, 360 verts] '04 - Predeterminado'
+			Humo [5317 polys, 4232 verts] '04 - Predeterminado'
+				Object04 [183 polys, 269 verts] '04 - Predeterminado'
+			Object01 [637 polys, 685 verts] '04 - Predeterminado'
+				Object02 [637 polys, 679 verts] '04 - Predeterminado'
+		Espejo-D01 [230 polys, 150 verts] '04 - Predeterminado'
+		focos [518 polys, 880 verts] '04 - Predeterminado'
+			Luces [30 polys, 36 verts] '04 - Predeterminado'
+
+
+Num Nodes: 20
+Total:    (15723 polys, 14522 verts)
+Mesh Max: (5317 polys, 4232 verts)
+
+3 Materials:
+ (  1) Material #0:
+       TAM-Chasis.bmp
+ (  2) 04 - Predeterminado:
+       TAM-Torre.bmp
+ (  3) Material #28:
+       <No Texture>
+
+2 Textures:
+TAM-Chasis.bmp
+TAM-Torre.bmp
+
+Points
+
+Extents

@@ -1,0 +1,19 @@
+	Hull (140 polys, 420 verts) '3 - Default'
+		Tracks (104 polys, 312 verts) '3 - Default'
+		Lights (24 polys, 72 verts) '3 - Default'
+		MudGuards (238 polys, 714 verts) '3 - Default'
+			Box03 (24 polys, 72 verts) '3 - Default'
+		Turret (264 polys, 792 verts) '9 - Default'
+			GunMantlet (28 polys, 84 verts) '9 - Default'
+				Barrel (150 polys, 450 verts) '9 - Default'
+			MGTurret (68 polys, 204 verts) '9 - Default'
+				MGBarrel (64 polys, 192 verts) '9 - Default'
+			FuelCans (24 polys, 72 verts) '3 - Default'
+			Aerials (132 polys, 396 verts) '9 - Default'
+			Vizor (12 polys, 36 verts) '9 - Default'
+			TurretBasket (608 polys, 1824 verts) '9 - Default'
+		DriversVisor (36 polys, 108 verts) '3 - Default'
+
+
+Total:    (1916 polys, 5748 verts)
+Mesh Max: (608 polys, 1824 verts)

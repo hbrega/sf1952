@@ -1,0 +1,71 @@
+[DefaultCallsign]
+Halcon
+Aguila
+Buitre
+Condor
+Harpia
+
+[CallsignSet001]
+Corazones
+Palos
+Diamantes
+Espadas
+Bromista
+
+[CallsignSet002]
+Tiburon
+Orca
+Espadon
+Barracuda
+Atun
+
+[CallsignSet003]
+Corrientes
+Neuquen
+Pampa
+Rioja
+Tucuman
+
+[CallsignSet004]
+Formosa
+Chaco
+Misiones
+Cordoba
+Chubut
+
+[CallsignSet005]
+Blanca
+Negra
+Roja
+Amarilla
+Azul
+
+[CallsignSet006]
+Verde
+Morada
+Celeste
+Beige
+Marron
+
+[GroundCallsign]
+Arena 47
+Arcilla 77
+Tierra 88
+Vulcan 45
+Colina 52
+Cumbre 83
+Tango 90
+Cúmbria 34
+Valsa 68
+Gardel 61
+Evita 14
+Granadero 29
+
+[ReconCallsign]
+Tango
+
+[FACCallsign]
+Asterix
+
+[TACCCallsign]
+Opera

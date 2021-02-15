@@ -1,0 +1,19 @@
+	Base (196 polys, 588 verts) '07 - Default'
+		Cylinder02 (36 polys, 108 verts) '02 - Default'
+		Cylinder03 (36 polys, 108 verts) '02 - Default'
+		Cylinder04 (36 polys, 108 verts) '02 - Default'
+		Cylinder05 (36 polys, 108 verts) '02 - Default'
+		Turret (860 polys, 2580 verts) '07 - Default'
+			Wheel2 (130 polys, 390 verts) '03 - Default'
+			Wheel1 (130 polys, 390 verts) '03 - Default'
+			Barrelbase (160 polys, 480 verts) '07 - Default'
+				Tube02 (84 polys, 252 verts) '07 - Default'
+				Tube01 (84 polys, 252 verts) '07 - Default'
+				GunBarrel2 (104 polys, 312 verts) '07 - Default'
+				GunBarrel1 (104 polys, 312 verts) '07 - Default'
+			body (380 polys, 1140 verts) '05 - Default'
+		Gunemplacement (144 polys, 432 verts) '08 - Default'
+
+
+Total:    (2520 polys, 7560 verts)
+Mesh Max: (860 polys, 2580 verts)

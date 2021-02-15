@@ -1,0 +1,50 @@
+	Chassis (322 polys, 966 verts) '01 - Default'
+		Wheel (160 polys, 480 verts) '01 - Default'
+		Wheel06 (160 polys, 480 verts) '01 - Default'
+		Wheel02 (160 polys, 480 verts) '01 - Default'
+		Wheel03 (160 polys, 480 verts) '01 - Default'
+		Wheel04 (160 polys, 480 verts) '01 - Default'
+		Wheel05 (160 polys, 480 verts) '01 - Default'
+		Wheel01 (160 polys, 480 verts) '01 - Default'
+		Wheel07 (160 polys, 480 verts) '01 - Default'
+		Track (352 polys, 1056 verts) '01 - Default'
+		Wheel08 (160 polys, 480 verts) '01 - Default'
+		Wheel10 (160 polys, 480 verts) '01 - Default'
+		Wheel11 (160 polys, 480 verts) '01 - Default'
+		Wheel12 (160 polys, 480 verts) '01 - Default'
+		Wheel13 (160 polys, 480 verts) '01 - Default'
+		Wheel09 (160 polys, 480 verts) '01 - Default'
+		Wheel15 (160 polys, 480 verts) '01 - Default'
+		Wheel14 (160 polys, 480 verts) '01 - Default'
+		Track01 (352 polys, 1056 verts) '01 - Default'
+		Turret (264 polys, 792 verts) '01 - Default'
+			Mast_IR_Dome (288 polys, 864 verts) '02 - IR Domes'
+			Turret_Shaft (32 polys, 96 verts) '01 - Default'
+				Launcher01 (28 polys, 84 verts) '01 - Default'
+					Missile_Tube04 (40 polys, 120 verts) '01 - Default'
+					Missile_Tube03 (40 polys, 120 verts) '01 - Default'
+					Missile_Tube01 (40 polys, 120 verts) '01 - Default'
+					Missile_Tube02 (40 polys, 120 verts) '01 - Default'
+				Launcher02 (28 polys, 84 verts) '01 - Default'
+					Missile_Tube05 (40 polys, 120 verts) '01 - Default'
+					Missile_Tube08 (40 polys, 120 verts) '01 - Default'
+					Missile_Tube07 (40 polys, 120 verts) '01 - Default'
+					Missile_Tube06 (40 polys, 120 verts) '01 - Default'
+		Designator_Turret (44 polys, 132 verts) '01 - Default'
+			Designator (36 polys, 108 verts) '01 - Default'
+				Desigator_IR_Dome (108 polys, 324 verts) '02 - IR Domes'
+				Designator_Laser (12 polys, 36 verts) '01 - Default'
+
+
+Num Nodes: 36
+Total:    (4746 polys, 14238 verts)
+Mesh Max: (352 polys, 1056 verts)
+
+2 Materials:
+ (  1) 01 - Default:
+       Stormer.bmp
+ (  2) 02 - IR Domes:
+       <No Texture>
+
+1 Textures:
+Stormer.bmp

@@ -1,0 +1,52 @@
+	Body (434 polys, 1302 verts) '04 - Default'
+		Nose (266 polys, 798 verts) '01 - Default'
+		Main2 (384 polys, 1152 verts) '03 - Default'
+			Bmain2 (30 polys, 90 verts) '01 - Default'
+			C2 (32 polys, 96 verts) '01 - Default'
+		Main1 (384 polys, 1152 verts) '03 - Default'
+			Bmain2 (30 polys, 90 verts) '01 - Default'
+			C1 (32 polys, 96 verts) '01 - Default'
+			F1 (9 polys, 27 verts) '02 - Default'
+		LeftStab2 (12 polys, 36 verts) '02 - Default'
+		RightStab2 (12 polys, 36 verts) '02 - Default'
+		RightStab1 (10 polys, 30 verts) '02 - Default'
+		LeftStab1 (10 polys, 30 verts) '02 - Default'
+		Bmain1 (30 polys, 90 verts) '01 - Default'
+		Booster1 (160 polys, 480 verts) '02 - Default'
+			Booster1Stab (16 polys, 48 verts) '02 - Default'
+			B1 (30 polys, 90 verts) '01 - Default'
+			N1 (128 polys, 384 verts) '02 - Default'
+			Booster2 (160 polys, 480 verts) '02 - Default'
+				Booster2Stab (16 polys, 48 verts) '02 - Default'
+				B2 (30 polys, 90 verts) '01 - Default'
+				N2 (128 polys, 384 verts) '02 - Default'
+			Booster3 (160 polys, 480 verts) '02 - Default'
+				Booster3Stab (16 polys, 48 verts) '02 - Default'
+				B3 (30 polys, 90 verts) '01 - Default'
+				N3 (128 polys, 384 verts) '02 - Default'
+			Booster4 (160 polys, 480 verts) '02 - Default'
+				Booster4Stab (16 polys, 48 verts) '02 - Default'
+				B4 (30 polys, 90 verts) '01 - Default'
+				N4 (128 polys, 384 verts) '02 - Default'
+		Strut (12 polys, 36 verts) '02 - Default'
+
+
+Num Nodes: 31
+Total:    (3023 polys, 9069 verts)
+Mesh Max: (434 polys, 1302 verts)
+
+4 Materials:
+ (  1) 04 - Default:
+       Bloodhound body.bmp
+ (  2) 01 - Default:
+       Bloodhound Black.bmp
+ (  3) 03 - Default:
+       Bloodhound Boosters.bmp
+ (  4) 02 - Default:
+       Bloodhound Green.bmp
+
+4 Textures:
+Bloodhound body.bmp
+Bloodhound Black.bmp
+Bloodhound Boosters.bmp
+Bloodhound Green.bmp

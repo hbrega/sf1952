@@ -1,0 +1,80 @@
+	Fuse (981 polys, 2943 verts) '07 - Default'
+		door (232 polys, 696 verts) '07 - Default'
+		Line04 (66 polys, 198 verts) '07 - Default'
+		Light02 (106 polys, 318 verts) '07 - Default'
+			Light02-1 (14 polys, 42 verts) '08 - Default'
+		Turret_Yaw (12 polys, 36 verts) '01 - Default'
+			Turret_Box (120 polys, 360 verts) '09 - Default'
+				Cylinder03 (2 polys, 6 verts) '01 - Default'
+				Turret_Pitch (12 polys, 36 verts) '09 - Default'
+					Turret_Box2 (188 polys, 564 verts) '09 - Default'
+						Launch rail (120 polys, 360 verts) '09 - Default'
+							Cylinder04 (58 polys, 174 verts) '09 - Default'
+							Cylinder34 (58 polys, 174 verts) '09 - Default'
+		Line33 (60 polys, 180 verts) '09 - Default'
+			Cylinder06 (24 polys, 72 verts) '09 - Default'
+				Box01 (102 polys, 306 verts) '09 - Default'
+		Box04 (10 polys, 30 verts) '09 - Default'
+		Line34 (120 polys, 360 verts) '07 - Default'
+			Cylinder07 (48 polys, 144 verts) '07 - Default'
+			Cylinder16 (24 polys, 72 verts) '07 - Default'
+			Line37 (10 polys, 30 verts) '07 - Default'
+			Cylinder17 (36 polys, 108 verts) '07 - Default'
+			Cylinder19 (36 polys, 108 verts) '07 - Default'
+			Cylinder20 (36 polys, 108 verts) '07 - Default'
+			Cylinder21 (36 polys, 108 verts) '07 - Default'
+			Cylinder22 (48 polys, 144 verts) '07 - Default'
+			Cylinder08 (48 polys, 144 verts) '07 - Default'
+			Cylinder09 (308 polys, 924 verts) '07 - Default'
+			Line41 (10 polys, 30 verts) '07 - Default'
+			Line36 (10 polys, 30 verts) '07 - Default'
+			Line44 (10 polys, 30 verts) '07 - Default'
+			Line35 (10 polys, 30 verts) '07 - Default'
+			Line46 (10 polys, 30 verts) '07 - Default'
+			Cylinder10 (24 polys, 72 verts) '07 - Default'
+			Cylinder11 (24 polys, 72 verts) '07 - Default'
+		Line47 (120 polys, 360 verts) '07 - Default'
+			Cylinder23 (48 polys, 144 verts) '07 - Default'
+			Cylinder24 (24 polys, 72 verts) '07 - Default'
+			Line49 (10 polys, 30 verts) '07 - Default'
+			Cylinder25 (36 polys, 108 verts) '07 - Default'
+			Cylinder26 (36 polys, 108 verts) '07 - Default'
+			Cylinder27 (36 polys, 108 verts) '07 - Default'
+			Cylinder28 (36 polys, 108 verts) '07 - Default'
+			Cylinder29 (48 polys, 144 verts) '07 - Default'
+			Cylinder30 (48 polys, 144 verts) '07 - Default'
+			Cylinder31 (308 polys, 924 verts) '07 - Default'
+			Line50 (10 polys, 30 verts) '07 - Default'
+			Line51 (10 polys, 30 verts) '07 - Default'
+			Line52 (10 polys, 30 verts) '07 - Default'
+			Line53 (10 polys, 30 verts) '07 - Default'
+			Line54 (10 polys, 30 verts) '07 - Default'
+			Cylinder32 (24 polys, 72 verts) '07 - Default'
+			Cylinder33 (24 polys, 72 verts) '07 - Default'
+		Light03 (106 polys, 318 verts) '07 - Default'
+			Light02-02 (14 polys, 42 verts) '08 - Default'
+		Box02 (10 polys, 30 verts) '09 - Default'
+		Box03 (10 polys, 30 verts) '09 - Default'
+		Box11 (10 polys, 30 verts) '09 - Default'
+		Box05 (10 polys, 30 verts) '09 - Default'
+		Box13 (10 polys, 30 verts) '09 - Default'
+
+
+Num Nodes: 60
+Total:    (4031 polys, 12093 verts)
+Mesh Max: (981 polys, 2943 verts)
+
+4 Materials:
+ (  1) 07 - Default:
+       Chassis.bmp
+ (  2) 08 - Default:
+       Self-illumination enabled
+       Chassis.bmp
+ (  3) 01 - Default:
+       <No Texture>
+ (  4) 09 - Default:
+       turret.bmp
+
+2 Textures:
+Chassis.bmp
+turret.bmp
