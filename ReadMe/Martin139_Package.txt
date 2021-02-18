@@ -1,0 +1,131 @@
+**************************************************************************
+* Martin Model 139 Set-up Instructions
+* A Strike Fighters 2 Project
+* Contact Information: Cesar Pun. E-mail: capun1950@yahoo.com
+* Brought to you by the SFP1 Dev A-Team of Capun, Charles, Kesselbrut, Edward
+* Airplane Model by capun, based on the Source file by Paul Clawson
+* Release 1 02/23/20
+* Model B-10-R2
+* Do not distribute, repackage or post without previous consent.
+* All Copyrights Reserved CPL Engineering, LLC (c) 2003-2020
+* No Modifications without previous consent is allowed
+* Models are done solely for the purpose of enjoyment by the SFP1 Dev A-Team. A-Team reserves the right
+* to use poetic license in the design. Model released to the SFP1/WoV/WoE/FE community for their enjoyment with
+* no implicit warranties, Caveat Emptor. 
+* By downloading this file you acknowledge that is provided on an "as is" basis, constructive feedback can be sent 
+* to the contact information. Custom work for this model can be done for a fee based on US$ 100 an hour
+* Contributors list
+* Original Design by Paul Clawson
+* FM and testing by Charles
+* Texture skins by Charles
+* Virtual Cockpit by Kessebrut
+* Slow/Fast Prop textures by Russo
+* Requires weapons pack up to date
+*************************************************************************
+1- Airplane Contents
+
+ - Martin139			-  Airplane folder under Objects\Aircraft
+  - B-10-R2.LOD			- Model LOD File
+  - B-10-R2.OUT			- Model OUT File
+  - B-10-MR80.LOD			- Lower Poly LOD
+  - B-10-MR70.LOD			- Lower Poly LOD
+  - B-10-MR60.LOD			- Lower Poly LOD
+  - B-10-MR50.LOD			- Lower Poly LOD
+  - Martin139.ini			- Airplane ini file
+  - Martin139_Data.ini		- Airplane data ini file
+  - Martin139_Loadout.ini		- Airplane Loadout ini file
+  - Martin139_Cockpit.ini		- Cockpit ini
+  - Martin139_Userlist.ini		- Airplane Userlist
+  - Martin139_Loadout.bmp		- Loadout picture
+  - B10-s_BM.jpg			- Bump Map
+  - B10-t_BM.jpg			- Bump Map
+  - B10-s_Holes.tga			- Damage 
+  - B10-t_Holes.tga			- Damage Texture
+   - CPL Copyright 2020.jpg		- Copyright picture
+  - Copyright.txt			- AFP1 Dev A-Team Copyright notice
+  - Martin139_Package.txt		- This document
+
+  - Martin139\Green37		- Texture folder under Objects\Aircraft\Martin139
+   - B10-s.jpg			- Main Texture
+   - B10-t.jpg			- Main Texture
+   - B10-s-SM.jpg			- Specular Map
+   - B10-t-SM.jpg			- Specular Map
+   - TextureSet.ini			- Texture declaration
+   - Decals.ini			- Decal declaration
+   - numbers.lst			- Airplane numbers
+   - Patch.bmp			- Texture patch.
+   - ClrGlass.tga			- Cockpit texture
+   - S3Prop.tga			- Slow Prop textures
+   - F3Prop.tga			- Fast Prop Textures
+
+  - Martin139\Green38		- Texture folder under Objects\Aircraft\Martin139
+   - B10-s.jpg			- Main Texture
+   - B10-t.jpg			- Main Texture
+   - B10-s-SM.jpg			- Specular Map
+   - B10-t-SM.jpg			- Specular Map
+   - TextureSet.ini			- Texture declaration
+   - Decals.ini			- Decal declaration
+   - numbers.lst			- Airplane numbers
+   - Patch.bmp			- Texture patch.
+   - ClrGlass.tga			- Cockpit texture
+   - S3Prop.tga			- Slow Prop textures
+   - F3Prop.tga			- Fast Prop Textures
+
+  - Martin139\Cockpit		- Cockpit folder under Objects\Aircraft\Martin139
+   - Compass.bmp
+   - Gear.tga
+   - Gunsight.tga
+   - Gearlights.bmp
+   - mossie_B4_pit.LOD
+   - mossie_B4_pit.OUT
+   - Gyro.bmp
+   - HurricaneMisc1.bmp
+   - Map.bmp
+   - Mossie_Engine.bmp
+   - Mossie_Misc1.bmp
+   - MossieGearPanel.bmp
+   - MossieMain.bmp
+   - MossiePit.bmp
+   - Needles.bmp
+   - Picture.bmp
+   - Rollbar.bmp
+
+  - Decals\Martin139\Green		- Decal folder under Objects\
+   - SqNum.tga, SqNum064.tga,SqNum080.tga
+   - Num000.tga to Num015.tga
+
+  - Pilots				- Pilots
+
+   - PilotWW2China2
+
+   - WW2GunnerCB
+
+  - Weapons			- New Weapon entries
+
+   - 250lb_bomb
+
+   - 500lb_bomb
+
+
+1- Copy all files under the Gamma2E folder to the Strike Fighters 2\Objects\Aircraft\Gamma2E folder
+
+  - Preserve the folder tree structure. It is easier just to drag and drop the Gamma2E folder into your Objects\Aircraft folder
+
+2- Copy all folders under the Decals folder to the Strike Fighters 2\Objects\Decals folder
+
+3- Copy all folders under the Guns folder to the Strike Fighters 2\Objects\Guns folder
+
+4- Copy all folders under the Pilots folder to the Strike Fighters 2\Objects\Pilots folder
+
+5- Copy all folders under the Weapons folder to the Strike Fighters 2\Objects\Weapons folder
+
+6-Happy Hunting.
+
+
+Designer notes:
+- Tested with Strike Fighters 2 July 2013 patch
+
+Known Issues:
+
+Release Notes:
+02/22/20: Release 1 Model
