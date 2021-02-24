@@ -1,0 +1,72 @@
+SF2 WW2 PBY-5A Catalina by Veltro2K						5/1/2013
+
+= For SF2, (Full 5 RECCOMENDED!!!) =
+
+**NOTE: due to the EXTENSIVE modifications performed on the various inis, this mod will !!Absolutely!! =NOT= work in SF/Wo* game at any patch level. A FUll 5 Merged install is required, due to the use of SF2NA statements in the data ini, pertaining to Naval Search and Naval Strike.**
+
+This is a Re-release of the Veltro2k's WW2 PBY-5A Catalina flying boat patrol bomber aircraft.
+While the Game Engine (tm) dosent support amphidexterious operations off water, the wing floats extend/retract with the H (arrestor hook) key.
+
+This pack contains just the single skin, USN42. This is a rather 'generic' skin, and represents USN VP squadrons from approximately April/May 1942, when the red ball and rudder stripes were removed. This also -more or less- coincides with the the arrival in greater strentgh in squadron service, of the -5A amphibian version (which this is), replacing the -4 and -4 seaplane only variant.
+Other skins ARE needed; the template for this aircraft should be available still in the SF/Wo* 1stGen downloads section. If not, I'll upload my copy. (we could use RNFAA, RNZAF, USN 3-tone and overall Black for the "Black Cats")
+
+As always, fairly easy to follow, detailed install instructions are included. PLEASE read them!!!  Also, give the "Note" section a read, in particular on operational usage.
+The Legal Statement has been changed with regards to this aircraft.
+For those that still have the original releases, you SHOULD redownload this pak; . There HAVE been MANY changes and additions in several of the inis, in respect to SF2NA.
+
+**These aircraft herein are released in "AS IS" Condition.  Any and all issues/problems that cannot be solved via ini edits will exist forever, as new models are unlikely to be created**.
+
+Happy Landings!
+
+==========
+To Install:
+
+As always reccomended, unzip the "sf2_ww2_pby_remod_pak" to a temp folder or your desktop or somewhere that's easy to find.
+
+Copy/Paste the /Objects folder DIRECTLY into the SF2 game install of choice's /Objects folder. It's already divided into the /Aircraft and /Decals sub-folders. You'll asked to "Overwrite?" , just say yes. It'll change nothing.
+
+copy/pate the supplied /Sounds folder directly over your existing /Sounds folder allow the overwrite
+
+That should cover it, go fly!
+
+-----------------------------
+Credits:
+see enclosed original readmes, if any
+Veltro for the aircrft and the Mk.13 torp
+kesselbrut for the cockpit
+me for everything else
+
+Sources:
+don't make me look them up again!!!
+
+------------
+Other Notes and Nonsense:
+
+See original readmes for all the stuff and things and so forth
+
+the Mk.13 included here in, is the new one released on 5/27/2013. I just renamed it withOUT the spaces, as sometimes SF2 goes a bit ape-shit when there are uneeded spaces in folder and file names. For whatever reason!
+
+could use a better FM, too
+
+---------------------------
+
+If you have any problems, questions, comments, I can be reached in the usual places; CombatAce, SimHQ, or 
+
+Happy Hunting!
+Wrench
+Kevin Stein
+
+--------------------------------------------
+Legal BS:
+The PBY Catalina remains the intellectual property of Consoladated Aircraft co. and Veltro2k
+
+This is freeware, with limited/controled re-release; it CANNOT be redistrubuted, or posted on other sites than CombatAce, even if the original readmes and all other pieces of the package remain intact. 
+
+The names of all contributors, modders, suppliers, etc =MUST= be listed in any new readmes.
+This package may NOT in any way, shape or form be used in any payware additions. 
+Bribes are accepted; ask for the day's going rates...
+-------------------------------------------
+
+
+
+==========
