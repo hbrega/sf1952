@@ -1,0 +1,15 @@
+	Hull (56 polys, 168 verts) '2Hull'
+		Tracks (136 polys, 408 verts) '2Hull'
+		Lamp01 (22 polys, 66 verts) '1 - Default'
+		Lamp02 (22 polys, 66 verts) '1 - Default'
+		Turret (200 polys, 600 verts) '1 Hull'
+			Barrel (166 polys, 498 verts) '1 Hull'
+			Light02 (48 polys, 144 verts) '1 Hull'
+			AAGun (124 polys, 372 verts) '1 Hull'
+			Rails (176 polys, 528 verts) '1 Hull'
+		RSideCurtains (80 polys, 240 verts) '2Hull'
+		LSideCurtains (80 polys, 240 verts) '2Hull'
+
+
+Total:    (1110 polys, 3330 verts)
+Mesh Max: (200 polys, 600 verts)

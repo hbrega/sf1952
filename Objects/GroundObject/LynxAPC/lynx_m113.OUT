@@ -1,0 +1,16 @@
+	tracksright (115 polys, 345 verts) '09 - Default'
+	tracksleft (115 polys, 345 verts) '09 - Default'
+	turret (326 polys, 978 verts) '09 - Default'
+	chassis (1669 polys, 5007 verts) '09 - Default'
+
+
+Num Nodes: 4
+Total:    (2225 polys, 6675 verts)
+Mesh Max: (1669 polys, 5007 verts)
+
+1 Materials:
+ (  1) 09 - Default:
+       lynxAPC.bmp
+
+1 Textures:
+lynxAPC.bmp

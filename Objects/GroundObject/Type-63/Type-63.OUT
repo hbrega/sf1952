@@ -1,0 +1,17 @@
+	Hull (88 polys, 264 verts) '2 - Default'
+		Box02 (12 polys, 36 verts) '2 - Default'
+		Tracks (120 polys, 360 verts) '2 - Default'
+		Turret (200 polys, 600 verts) '10 - Default'
+			Barrel (184 polys, 552 verts) '10 - Default'
+			Light02 (48 polys, 144 verts) '10 - Default'
+		Turret01 (32 polys, 96 verts) '10 - Default'
+	AAGun (80 polys, 240 verts) '10 - Default'
+		Cylinder03 (40 polys, 120 verts) '10 - Default'
+	Aerial01 (44 polys, 132 verts) '10 - Default'
+	Aerial (44 polys, 132 verts) '10 - Default'
+	Cylinder01 (36 polys, 108 verts) '10 - Default'
+	Rails (176 polys, 528 verts) '10 - Default'
+
+
+Total:    (1104 polys, 3312 verts)
+Mesh Max: (200 polys, 600 verts)

@@ -1,0 +1,27 @@
+	Base (412 polys, 1236 verts) '19 - Default'
+		Achse (32 polys, 96 verts) '19 - Default'
+			Kotfluegel (104 polys, 312 verts) '19 - Default'
+				Rad (60 polys, 180 verts) '19 - Default'
+			Kotfluegel01 (104 polys, 312 verts) '19 - Default'
+				Rad01 (60 polys, 180 verts) '19 - Default'
+		Achse01 (32 polys, 96 verts) '19 - Default'
+			Kotfluegel02 (104 polys, 312 verts) '19 - Default'
+				Rad02 (60 polys, 180 verts) '19 - Default'
+			Kotfluegel03 (104 polys, 312 verts) '19 - Default'
+				Rad03 (60 polys, 180 verts) '19 - Default'
+		Cylinder03 (68 polys, 204 verts) '19 - Default'
+		Cylinder02 (68 polys, 204 verts) '19 - Default'
+		Cylinder01 (68 polys, 204 verts) '19 - Default'
+		Drehkranz (60 polys, 180 verts) '19 - Default'
+		Turret (656 polys, 1968 verts) '19 - Default'
+			Guns (52 polys, 156 verts) '19 - Default'
+				Barrel (404 polys, 1212 verts) '19 - Default'
+				Barrel01 (404 polys, 1212 verts) '19 - Default'
+				AmmoBoxes (196 polys, 588 verts) '19 - Default'
+					Mun01 (24 polys, 72 verts) '19 - Default'
+				Tube01 (104 polys, 312 verts) '19 - Default'
+			body (380 polys, 1140 verts) '20 - Default'
+
+
+Total:    (3616 polys, 10848 verts)
+Mesh Max: (656 polys, 1968 verts)

@@ -1,0 +1,67 @@
+	Hull [30 polys, 43 verts] 'Material #5'
+		Turret [1787 polys, 3817 verts] 'Material #5'
+			MGMount [32 polys, 64 verts] 'Material #6'
+			Object02 [28 polys, 64 verts] 'Material #4'
+			GunBarrel [354 polys, 440 verts] 'Material #5'
+			Object20 [584 polys, 1076 verts] 'Material #5'
+			MG3 [521 polys, 1025 verts] 'Material #6'
+		Componen52 [211 polys, 318 verts] 'Material #5'
+		Compone109 [3836 polys, 6076 verts] 'Material #5'
+		Compone227 [211 polys, 318 verts] 'Material #5'
+		Compone232 [1800 polys, 3372 verts] 'Material #5'
+		Compone239 [1064 polys, 1664 verts] 'Material #5'
+		Mesh29 [525 polys, 875 verts] 'Material #5'
+		Mesh34 [526 polys, 876 verts] 'Material #5'
+		Compone247 [568 polys, 672 verts] 'Material #5'
+		Compone250 [48 polys, 96 verts] 'Material #5'
+		Compone260 [284 polys, 478 verts] 'Material #5'
+		Compone261 [284 polys, 478 verts] 'Material #5'
+		Compone263 [1432 polys, 2930 verts] 'Material #5'
+		Mesh41 [418 polys, 468 verts] 'Material #5'
+		Compone264 [528 polys, 770 verts] 'Material #5'
+		Compone265 [528 polys, 770 verts] 'Material #5'
+		Mesh77 [1758 polys, 2331 verts] 'Material #5'
+			Object21 [2037 polys, 1926 verts] 'Material #5'
+			Object22 [1868 polys, 2798 verts] 'Material #5'
+		Mesh80 [4 polys, 8 verts] 'Material #5'
+		Cylinder04 [344 polys, 404 verts] 'Material #5'
+		Object01 [432 polys, 292 verts] 'Material #5'
+		Object03 [432 polys, 292 verts] 'Material #5'
+		Object04 [432 polys, 292 verts] 'Material #5'
+		Object05 [432 polys, 292 verts] 'Material #5'
+		Object06 [432 polys, 292 verts] 'Material #5'
+		Object07 [432 polys, 292 verts] 'Material #5'
+		Object08 [432 polys, 292 verts] 'Material #5'
+		Object09 [432 polys, 292 verts] 'Material #5'
+		Object10 [432 polys, 292 verts] 'Material #5'
+		Object11 [1792 polys, 2389 verts] 'Material #5'
+		Object12 [1800 polys, 3368 verts] 'Material #5'
+		Object13 [1800 polys, 3364 verts] 'Material #5'
+		Object14 [3584 polys, 4781 verts] 'Material #5'
+		Object15 [3584 polys, 4801 verts] 'Material #5'
+		Object16 [241 polys, 271 verts] 'Material #5'
+		Object17 [335 polys, 341 verts] 'Material #5'
+		Object19 [3836 polys, 6076 verts] 'Material #5'
+
+
+Num Nodes: 44
+Total:    (42470 polys, 62176 verts)
+Mesh Max: (3836 polys, 6076 verts)
+
+3 Materials:
+ (  1) Material #5:
+       Leopard2A6.dds
+ (  2) Material #6:
+       MG3.dds
+ (  3) Material #4:
+       Transparency enabled
+       Box.tga
+
+3 Textures:
+Leopard2A6.dds
+MG3.dds
+Box.tga
+
+Points
+
+Extents
