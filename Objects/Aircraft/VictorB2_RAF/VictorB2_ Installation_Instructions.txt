@@ -1,0 +1,111 @@
+**************************************************************************
+* Handley Page Victor Mk B2  Set-up Instructions
+* A Strike Fighters Project One, Wings over Vietnam & Wings over Europe Add-on. Requires SP4
+* Contact Information: Cesar Pun. E-mail: capun1950@yahoo.com
+* Brought to you by the SFP1 Dev A-Team of Capun, Gramps, Charles, Kesselbrut & The Wrench
+* Airplane Model by capun, based on the DeEspona Victor model from the Taschen books.
+* Release 1 10/23/06
+* Model VictorB2-R3
+* Do not distribute, repackage or post without previous consent.
+* All Copyrights Reserved CPL Engineering, LLC (c) 2003-2006
+* No Modifications without previous consent is allowed
+* Models are done solely for the purpose of enjoyment by the SFP1 Dev A-Team. A-Team reserves the right
+* to use poetic license in the design. Model released to the SFP1/WoV/WoE community for their enjoyment with
+* no implicit warranties, Caveat Emptor. 
+* By downloading this file you acknowledge that is provided on an "as is" basis, constructive feedback can be sent 
+* to the contact information. Custom work for this model can be done for a fee based on US$ 65 an hour
+* Contributors list
+* Original 3D Model design by DeEspona
+* Model modifications by capun
+* Texture skins and testing by Gramps
+* FM and Testing by Charles
+* B-17 Virtual Cockpit by Kesselbrut, modified by Charles
+* Loading & Hangar screens by The Wrench
+* VBomber sound by Hinchinbrooke
+* Requires weapons pack update WeaponsPack_03Jul06 or newer
+*************************************************************************
+1- Airplane Contents
+
+ -VictorB2				- Airplane folder under Objects\Aircraft
+  - VictorB2-R3.LOD			- Model LOD File
+  - VictorB2.ini			- Airplane ini file
+  - VictorB2_Data.ini			- Airplane data ini file
+  - VictorB2_Loadout.ini		- Airplane Loadout ini file
+  - VictorB2_Cockpit.ini		- Cockpit ini
+  - VictorB2_Hangar.bmp		- Hangar picture File
+  - VictorB2_Loadout.bmp		- Loadout picture
+  - VictorB2_Loading.bmp		- Loading picture
+  - ClrGlass.tga			- Cockpit texture
+  - Victor-s_Holes.bmp		- Damage Texture bmp
+  - Victor-t_Holes.bmp		- Damage Texture bmp
+
+  -VictorB2\139			- Texture folder under Objects\Aircraft\VictorB2
+   - Victor-s.bmp			- Main Texture bmp
+   - Victor-t.bmp			- Main Texture bmp
+   - TextureSet.ini			- Texture declaration
+   - Decals.ini			- Decal declaration
+   - Numbers.lst			- Plane Numbers/Letters
+   - patch.bmp			- paint swatch
+
+  -VictorB2\139\D			- Decal folder under Objects\Aircraft\VictorB2\139
+   - TailNum000.tga			- Squadron Tail Letter decal
+   - TailNum001.tga			- Squadron Tail Letter decal
+   - TailNum002.tga			- Squadron Tail Letter decal
+   - TailNum003.tga			- Squadron Tail Letter decal
+   - TailNum004.tga			- Squadron Tail Letter decal
+   - TailNum005.tga			- Squadron Tail Letter decal
+   - TailNum006.tga			- Squadron Tail Letter decal
+   - TailNum007.tga			- Squadron Tail Letter decal
+   - TailNum008.tga			- Squadron Tail Letter decal
+   - TailNum009.tga			- Squadron Tail Letter decal
+   - TailNum010.tga			- Squadron Tail Letter decal
+   - TailNum011.tga			- Squadron Tail Letter decal
+   - TailNum012.tga			- Squadron Tail Letter decal
+   - TailNum013.tga			- Squadron Tail Letter decal
+   - TailNum014.tga			- Squadron Tail Letter decal
+   - TailNum015.tga			- Squadron Tail Letter decal
+   - Crest.tga
+   - Insignia.tga
+   - Finflash.tga
+   - topinsignia.tga
+
+  -VictorB2\Cockpit			- Cockpit folder under Objects\Aircraft\VictorB2
+   - ADI-1.bmp
+   - CockpitGlass.tga
+   - B-17Panel.bmp
+   - patch.bmp
+   - Compass.bmp
+   - F-105_attitude.bmp
+   - Glass.png
+   - Gyro.bmp
+   - Needles.bmp
+   - Rollbar.bmp
+   - USBFBPanel.bmp
+   - USBHull.bmp
+   - USBPit.LOD
+   - USBPit.OUT
+   - USGauges.bmp
+   - US-legs.bmp
+   - Map.bmp			- Customizable picture. Use a 378x454 pixel 24-bit BMP file with this name
+   - Picture.bmp			- Customizable picture. Use a 378x454 pixel 24-bit BMP file with this name
+
+  -VictorB2\Sounds
+   - VBomber.wav
+
+
+2- Copy all files under the VictorB2 folder to the Strike Fighters\Objects\Aircraft\VictorB2 folder
+
+  - Preserve the folder tree structure. It is easier just to drag and drop theVictorB2 folder into your Objects\Aircraft folder
+
+3- Copy all files under the VictorB2\sounds folder to the Strike Fighters\sounds folder
+
+4- Happy Hunting.
+
+Designer notes:
+
+Known Issues:
+- 
+
+Design Notes:
+10/23/06: V1 Release Model
+

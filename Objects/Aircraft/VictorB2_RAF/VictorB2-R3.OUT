@@ -1,0 +1,113 @@
+	Fuselage (635 polys, 1905 verts) '02 - Default'
+		BombBay (31 polys, 93 verts) '03 - Default'
+			BBayDoor (278 polys, 834 verts) '03 - Default'
+		Gear_F (28 polys, 84 verts) '02 - Default'
+			MudGuard (266 polys, 798 verts) '02 - Default'
+			Tire_FL (216 polys, 648 verts) '02 - Default'
+			Tire_FR (216 polys, 648 verts) '02 - Default'
+		Well_F (29 polys, 87 verts) '03 - Default'
+		Wing_L (1292 polys, 3876 verts) '03 - Default'
+			Pitot_L (52 polys, 156 verts) '03 - Default'
+			FlapI_L (109 polys, 327 verts) '03 - Default'
+			GearDoor_L (47 polys, 141 verts) '03 - Default'
+			GearLight_L (503 polys, 1509 verts) '03 - Default'
+			Intake_L (141 polys, 423 verts) '03 - Default'
+			IntakeSep_L (84 polys, 252 verts) '03 - Default'
+			Gear_L (232 polys, 696 verts) '02 - Default'
+				Hub_L (40 polys, 120 verts) '02 - Default'
+					Tire_L01 (216 polys, 648 verts) '02 - Default'
+					Tire_L02 (144 polys, 432 verts) '02 - Default'
+					Tire_L03 (144 polys, 432 verts) '02 - Default'
+					Tire_L04 (216 polys, 648 verts) '02 - Default'
+					Tire_L05 (216 polys, 648 verts) '02 - Default'
+					Tire_L06 (144 polys, 432 verts) '02 - Default'
+					Tire_L07 (144 polys, 432 verts) '02 - Default'
+					Tire_L08 (216 polys, 648 verts) '02 - Default'
+				Strut_L (198 polys, 594 verts) '02 - Default'
+			Well_L (40 polys, 120 verts) '03 - Default'
+			Slat_L (55 polys, 165 verts) '03 - Default'
+			Exh_01 (22 polys, 66 verts) '03 - Default'
+			Exh_02 (22 polys, 66 verts) '03 - Default'
+			EngLiner_L (126 polys, 378 verts) '03 - Default'
+			JetPipe01 (70 polys, 210 verts) '03 - Default'
+			JetPipe02 (70 polys, 210 verts) '03 - Default'
+			FlapO_L (45 polys, 135 verts) '03 - Default'
+			Aileron_L (22 polys, 66 verts) '03 - Default'
+			WingPod_L (176 polys, 528 verts) '02 - Default'
+			WingTank_L (251 polys, 753 verts) '02 - Default'
+		Door_FL (10 polys, 30 verts) '03 - Default'
+		Door_FR (14 polys, 42 verts) '03 - Default'
+		Wing_R (1278 polys, 3834 verts) '03 - Default'
+			EngLiner_R (125 polys, 375 verts) '03 - Default'
+			Exh_03 (22 polys, 66 verts) '03 - Default'
+			Exh_04 (22 polys, 66 verts) '03 - Default'
+			FlapI_R (109 polys, 327 verts) '03 - Default'
+			Gear_R (232 polys, 696 verts) '02 - Default'
+				Hub_R (40 polys, 120 verts) '02 - Default'
+					Tire_R01 (216 polys, 648 verts) '02 - Default'
+					Tire_R02 (144 polys, 432 verts) '02 - Default'
+					Tire_R03 (144 polys, 432 verts) '02 - Default'
+					Tire_R04 (216 polys, 648 verts) '02 - Default'
+					Tire_R05 (216 polys, 648 verts) '02 - Default'
+					Tire_R06 (144 polys, 432 verts) '02 - Default'
+					Tire_R07 (144 polys, 432 verts) '02 - Default'
+					Tire_R08 (216 polys, 648 verts) '02 - Default'
+				Strut_R (198 polys, 594 verts) '02 - Default'
+			GearDoor_R (46 polys, 138 verts) '03 - Default'
+			GearLight_R (503 polys, 1509 verts) '03 - Default'
+			Intake_R (141 polys, 423 verts) '03 - Default'
+			IntakeSep_R (84 polys, 252 verts) '03 - Default'
+			JetPipe03 (70 polys, 210 verts) '03 - Default'
+			JetPipe04 (70 polys, 210 verts) '03 - Default'
+			Pitot_R (52 polys, 156 verts) '03 - Default'
+			Slat_R (55 polys, 165 verts) '03 - Default'
+			Well_R (40 polys, 120 verts) '03 - Default'
+			Aileron_R (20 polys, 60 verts) '03 - Default'
+			FlapO_R (45 polys, 135 verts) '03 - Default'
+			Wing_Pod_R (176 polys, 528 verts) '02 - Default'
+			WingTank_R (251 polys, 753 verts) '02 - Default'
+		Tail (1192 polys, 3576 verts) '02 - Default'
+			TailCone (421 polys, 1263 verts) '02 - Default'
+			ABrakeW_L (49 polys, 147 verts) '02 - Default'
+				Airbrake_L (83 polys, 249 verts) '02 - Default'
+					AirBrakeFrame_L (74 polys, 222 verts) '07 - Default'
+			ABrakeW_R (46 polys, 138 verts) '02 - Default'
+				Airbrake_R (78 polys, 234 verts) '02 - Default'
+					AirbrakeFrame_R (73 polys, 219 verts) '07 - Default'
+			TailFin (153 polys, 459 verts) '02 - Default'
+				Rudder (30 polys, 90 verts) '02 - Default'
+				TailFin_Top (347 polys, 1041 verts) '02 - Default'
+					Stab_L (48 polys, 144 verts) '03 - Default'
+						Elev_L (31 polys, 93 verts) '03 - Default'
+					Stab_R (41 polys, 123 verts) '03 - Default'
+						Elev_R (28 polys, 84 verts) '03 - Default'
+		Nose (1775 polys, 5325 verts) '07 - Default'
+			CabinDoor (176 polys, 528 verts) '02 - Default'
+			CabinWall (108 polys, 324 verts) '03 - Default'
+			Nose_Glass (18 polys, 54 verts) '01 - Default'
+			NoseProbes (55 polys, 165 verts) '02 - Default'
+			Window_L (23 polys, 69 verts) '01 - Default'
+			Window_R (23 polys, 69 verts) '01 - Default'
+			Cockpit_Glass (78 polys, 234 verts) '01 - Default'
+			AirRefuel (36 polys, 108 verts) '02 - Default'
+
+
+Num Nodes: 92
+Total:    (16765 polys, 50295 verts)
+Mesh Max: (1775 polys, 5325 verts)
+
+4 Materials:
+ (  1) 02 - Default:
+       Victor-s.bmp
+ (  2) 03 - Default:
+       Victor-t.bmp
+ (  3) 07 - Default:
+       Victor-s.bmp
+ (  4) 01 - Default:
+       Transparency enabled
+       ClrGlass.TGA
+
+3 Textures:
+Victor-s.bmp
+Victor-t.bmp
+ClrGlass.TGA

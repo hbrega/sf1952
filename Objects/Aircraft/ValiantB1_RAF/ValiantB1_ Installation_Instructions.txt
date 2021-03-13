@@ -1,0 +1,107 @@
+**************************************************************************
+* Vickers Valiant Mk B1 Set-up Instructions
+* A Strike Fighters Project One Add-on
+* Brought to you by the SFP1 Dev A-Team of Capun, Gramps, Charles & Kesselbrut
+* Only for WoV and SFP1 Patch 3
+* Airplane Model by capun, based on the AlphaSim Valiant B1 Freeware
+* Release 02/27/06.
+* Model ValiantB1-R3
+* Do not distribute or post without previous consent.
+* All Copyrights Reserved CPL Engineering, LLC (c) 2003-06
+* capun1950@yahoo.com
+* No Modifications without previous consent is allowed
+* Contributors list
+* FM, weapons and testing by Charles
+* Texture skins and testing by Gramps
+* Virtual Cockpit by Kesselbrut
+*  Loading & Hangar screens by The Wrench
+* Requires weapons pack update WeaponsPack_01Jan06_Update_2
+* Requires Flightengine.ini and nations.ini modifications
+*************************************************************************
+1- Airplane Contents
+
+ - ValiantB1		- Airplane folder under Objects\Aircraft
+  - Valiant-B1-R3.LOD	- Model LOD File
+  - ValiantB1.ini		- Airplane ini file
+  - ValiantB1_Data.ini		- Airplane data ini file
+  - ValiantB1_Loadout.ini	- Airplane Loadout ini file
+  - ValiantB1_Cockpit.ini	- Cockpit ini
+  - ValiantB1_Avionics.ini	- Avionics
+  - ValiantB1_Hangar.bmp	- Hangar picture File
+  - ValiantB1_Loadout.bmp	- Loadout picture
+  - ValiantB1_Loading.bmp	- Loading picture
+  - Misc.bmp		- Misc Texture bmp
+  - ClrGlass.tga		- Cockpit texture
+
+  - ValiantB1\148		- Texture folder under Objects\Aircraft\ValiantB1
+   - ValiantB1-s.bmp		- Main Texture bmp
+   - ValiantB1-t.bmp		- Main Texture bmp
+   - TextureSet.ini		- Texture declaration
+   - Decals.ini		- Decal declaration
+   - Numbers.lst		- Plane Numbers/Letters
+   - patch.bmp		- paint swatch
+
+  - ValiantB1\148\D		- Decal folder under Objects\Aircraft\ValiantB1\148
+   - TailNum000.tga		- Squadron Letter decal
+   - TailNum001.tga		- Squadron Letter decal
+   - TailNum002.tga		- Squadron Letter decal
+   - TailNum003.tga		- Squadron Letter decal
+   - TailNum004.tga		- Squadron Letter decal
+   - TailNum005.tga		- Squadron Letter decal
+   - TailNum006.tga		- Squadron Letter decal
+   - TailNum007.tga		- Squadron Letter decal
+   - TailNum008.tga		- Squadron Letter decal
+   - TailNum009.tga		- Squadron Letter decal
+   - TailNum010.tga		- Squadron Letter decal
+   - TailNum011.tga		- Squadron Letter decal
+   - Crest.tga		- Squadron decal
+   - Crew.tga
+   - FinFlash.tga
+   - Insignia.tga
+
+  - ValiantB1\Cockpit		- Cockpit folder under Objects\Aircraft\ValiantB1
+   - ADI-1.bmp
+   - CockpitGlass.tga
+   - B-17Panel.bmp
+   - patch.bmp
+   - Compass.bmp
+   - F-105_attitude.bmp
+   - Glass.png
+   - Gyro.bmp
+   - Needles.bmp
+   - Rollbar.bmp
+   - USBFBPanel.bmp
+   - USBHull.bmp
+   - USBPit.LOD
+   - USBPit.OUT
+   - USGauges.bmp
+   - US-legs.bmp
+   - Map.bmp		- Customizable picture. Use a 378x454 pixel 24-bit BMP file with this name
+   - Picture.bmp		- Customizable picture. Use a 378x454 pixel 24-bit BMP file with this name
+
+  - ValiantB1\Weapons	- New Weapons
+   - BlueDanube.bmp
+   - BlueDanube.LOD
+   - RAF500.LOD
+   - RAF500.bmp
+   - WeaponData.dat
+   - WeaponData.ini
+   - ValiantWeaponsPackUpdate.txt - Changes to the weapons pack
+
+2- Copy all files under the ValiantB1 folder to the Strike Fighters\Objects\Aircraft\ValiantB1 folder
+
+  - Preserve the folder tree structure. It is easier just to drag and drop the ValiantB1 folder into your Objects\Aircraft folder
+
+3- Copy all files under the Weapons folder to the Strike Fighters\Objects\Weapons
+
+4- Happy Hunting.
+
+Known Issues:
+
+
+Design Notes:
+02/27/06: Release Model
+
+ValiantB1 FM notes for Strike Fighters
+====================================
+
