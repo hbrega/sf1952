@@ -1,0 +1,76 @@
+// Station 1 = Left Wing Outer
+// Station 2 = Right Wing Outer
+// Station 3 = Left Wing 
+// Station 4 = Right Wing 
+// Station 5 = Left Wing Inner
+// Station 6 = Right Wing Inner
+
+[AirToAir]
+Loadout[01].WeaponType=VixenTank
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=VixenTank
+Loadout[02].Quantity=1
+Loadout[03].WeaponType=Firestreak
+Loadout[03].Quantity=1
+Loadout[04].WeaponType=Firestreak
+Loadout[04].Quantity=1
+Loadout[05].WeaponType=Firestreak
+Loadout[05].Quantity=1
+Loadout[06].WeaponType=Firestreak
+Loadout[06].Quantity=1
+
+[AirToAirLongRange]
+Loadout[01].WeaponType=VixenTank
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=VixenTank
+Loadout[02].Quantity=1
+Loadout[03].WeaponType=Firestreak
+Loadout[03].Quantity=1
+Loadout[04].WeaponType=Firestreak
+Loadout[04].Quantity=1
+Loadout[05].WeaponType=RFirestreak
+Loadout[05].Quantity=1
+Loadout[06].WeaponType=Firestreak
+Loadout[06].Quantity=1
+
+[Attack]
+Loadout[01].WeaponType=VixenTank
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=VixenTank
+Loadout[02].Quantity=1
+Loadout[03].WeaponType=Firestreak
+Loadout[03].Quantity=1
+Loadout[04].WeaponType=Firestreak
+Loadout[04].Quantity=1
+Loadout[05].WeaponType=SNEB Rocket Pod
+Loadout[05].Quantity=1
+Loadout[06].WeaponType=SNEB Rocket Pod
+Loadout[06].Quantity=1
+
+[Strike]
+Loadout[01].WeaponType=VixenTank
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=VixenTank
+Loadout[02].Quantity=1
+Loadout[03].WeaponType=Mk13/18
+Loadout[03].Quantity=1
+Loadout[04].WeaponType=Mk13/18
+Loadout[04].Quantity=1
+Loadout[05].WeaponType=Firestreak
+Loadout[05].Quantity=1
+Loadout[06].WeaponType=Firestreak
+Loadout[06].Quantity=1
+
+[Anti-Ship]
+Loadout[01].WeaponType=AGM-12C
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=AGM-12C
+Loadout[02].Quantity=1
+Loadout[03].WeaponType=Firestreak
+Loadout[03].Quantity=1
+Loadout[04].WeaponType=Firestreak
+Loadout[04].Quantity=1
+Loadout[05].WeaponType=SNEB Rocket Pod
+Loadout[05].Quantity=1
+Loadout[06].WeaponType=SNEB Rocket Pod
+Loadout[06].Quantity=1

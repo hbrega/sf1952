@@ -1,0 +1,24 @@
+[Squadron***]
+Name=890NAS
+DisplayName=890 Naval Air Squadron
+Nation=RoyalNavy
+
+[Squadron***]
+Name=892NAS
+DisplayName=892 Naval Air Squadron
+Nation=RoyalNavy
+
+[Squadron***]
+Name=893NAS
+DisplayName=893 Naval Air Squadron
+Nation=RoyalNavy
+
+[Squadron***]
+Name=899NAS
+DisplayName=899 Naval Air Squadron
+Nation=RoyalNavy
+
+[Squadron***]
+Name=766NAS
+DisplayName=766 Naval Air Squadron
+Nation=RoyalNavy
