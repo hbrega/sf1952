@@ -1,0 +1,137 @@
+// Station 1 = Left Fuel Pylon
+// Station 2 = Right Fuel Pylon
+// Station 3 = Left Outboard Bomb Pylon
+// Station 4 = Right Outboard Bomb Pylon
+// Station 5 = Left Inboard Bomb Pylon
+// Station 6 = Right Inboard Bomb Pylon
+// Station 7 = Left Rocket Pylon 1
+// Station 8 = Right Rocket Pylon 1
+// Station 9 = Left Rocket Pylon 2
+// Station 10 = Right Rocket Pylon 2
+// Station 11 = Left Rocket Pylon 3
+// Station 12 = Right Rocket Pylon 3
+// Station 13 = Left Rocket Pylon 4
+// Station 14 = Right Rocket Pylon 4
+// Station 15 = Left Rocket Pylon 5
+// Station 16 = Right Rocket Pylon 5
+
+[AirToAir]
+
+[AirToAirLongRange]
+Loadout[01].WeaponType=Tank_SeaHawk_Late
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=Tank_SeaHawk_Late
+Loadout[02].Quantity=1
+
+[Recon]
+Loadout[01].WeaponType=Tank_SeaHawk_Late
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=Tank_SeaHawk_Late
+Loadout[02].Quantity=1
+
+[Attack]
+Loadout[01].WeaponType=Tank_SeaHawk_Late
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=Tank_SeaHawk_Late
+Loadout[02].Quantity=1
+Loadout[03].WeaponType=500lbGP
+Loadout[03].Quantity=1
+Loadout[04].WeaponType=500lbGP
+Loadout[04].Quantity=1
+Loadout[07].WeaponType=60lb-rocket
+Loadout[07].Quantity=1
+Loadout[08].WeaponType=60lb-rocket
+Loadout[08].Quantity=1
+Loadout[09].WeaponType=60lb-rocket
+Loadout[09].Quantity=1
+Loadout[10].WeaponType=60lb-rocket
+Loadout[10].Quantity=1
+
+
+[Strike]
+Loadout[01].WeaponType=Tank_SeaHawk_Late
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=Tank_SeaHawk_Late
+Loadout[02].Quantity=1
+Loadout[03].WeaponType=500lbGP
+Loadout[03].Quantity=1
+Loadout[04].WeaponType=500lbGP
+Loadout[04].Quantity=1
+Loadout[07].WeaponType=60lb-rocket
+Loadout[07].Quantity=1
+Loadout[08].WeaponType=60lb-rocket
+Loadout[08].Quantity=1
+Loadout[09].WeaponType=60lb-rocket
+Loadout[09].Quantity=1
+Loadout[10].WeaponType=60lb-rocket
+Loadout[10].Quantity=1
+
+[SEAD]
+Loadout[01].WeaponType=Tank_SeaHawk_Late
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=Tank_SeaHawk_Late
+Loadout[02].Quantity=1
+Loadout[03].WeaponType=500lbGP
+Loadout[03].Quantity=1
+Loadout[04].WeaponType=500lbGP
+Loadout[04].Quantity=1
+Loadout[07].WeaponType=60lb-rocket
+Loadout[07].Quantity=1
+Loadout[08].WeaponType=60lb-rocket
+Loadout[08].Quantity=1
+Loadout[09].WeaponType=60lb-rocket
+Loadout[09].Quantity=1
+Loadout[10].WeaponType=60lb-rocket
+Loadout[10].Quantity=1
+
+[Anti-Ship]
+Loadout[01].WeaponType=Tank_SeaHawk_Late
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=Tank_SeaHawk_Late
+Loadout[02].Quantity=1
+Loadout[03].WeaponType=500lbGP
+Loadout[03].Quantity=1
+Loadout[04].WeaponType=500lbGP
+Loadout[04].Quantity=1
+Loadout[07].WeaponType=60lb-rocket
+Loadout[07].Quantity=1
+Loadout[08].WeaponType=60lb-rocket
+Loadout[08].Quantity=1
+Loadout[09].WeaponType=60lb-rocket
+Loadout[09].Quantity=1
+Loadout[10].WeaponType=60lb-rocket
+Loadout[10].Quantity=1
+
+[FAC]
+Loadout[01].WeaponType=Tank_SeaHawk_Late
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=Tank_SeaHawk_Late
+Loadout[02].Quantity=1
+Loadout[07].WeaponType=60lb-rocket
+Loadout[07].Quantity=1
+Loadout[08].WeaponType=60lb-rocket
+Loadout[08].Quantity=1
+Loadout[09].WeaponType=60lb-rocket
+Loadout[09].Quantity=1
+Loadout[10].WeaponType=60lb-rocket
+Loadout[10].Quantity=1
+Loadout[11].WeaponType=60lb-rocket
+Loadout[11].Quantity=1
+Loadout[12].WeaponType=60lb-rocket
+Loadout[12].Quantity=1
+Loadout[13].WeaponType=60lb-rocket
+Loadout[13].Quantity=1
+Loadout[14].WeaponType=60lb-rocket
+Loadout[14].Quantity=1
+Loadout[15].WeaponType=60lb-rocket
+Loadout[15].Quantity=1
+Loadout[16].WeaponType=60lb-rocket
+Loadout[16].Quantity=1
+
+[Recon]
+Loadout[01].WeaponType=Tank_SeaHawk_Late
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=Tank_SeaHawk_Late
+Loadout[02].Quantity=1
+
+
