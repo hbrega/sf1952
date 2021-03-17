@@ -1,0 +1,253 @@
+	Wyvern_LOD_400 (12 polys, 36 verts) 'ERROR: No material is assigned!'
+		Fueslage (1051 polys, 3153 verts) 'Fueslage'
+			RInnerWing (1954 polys, 5862 verts) 'Wings'
+				r_wingfold_wing (1548 polys, 4644 verts) 'Wings'
+					r_aileron (147 polys, 441 verts) 'Wings'
+					R_Spoiler_UpperBrake (36 polys, 108 verts) 'Wings'
+					RearNavLightCover01 (58 polys, 174 verts) 'Canopy'
+					NavLightCover01 (14 polys, 42 verts) 'Canopy'
+					R_Spoiler_BrakeCylinder01 (90 polys, 270 verts) 'Tailplane'
+						R_Spoiler_BrakePiston01 (54 polys, 162 verts) 'Chrome'
+					ROuterVane (20 polys, 60 verts) 'Wings'
+					Flap_Brake_key_R (27 polys, 81 verts) 'Wings'
+					Cannon03 (120 polys, 360 verts) 'Wings'
+					WingHinge08 (12 polys, 36 verts) 'Wings'
+					WingHinge05 (12 polys, 36 verts) 'Wings'
+					LPylon06 (44 polys, 132 verts) 'Wings'
+					LPylon07 (44 polys, 132 verts) 'Wings'
+					LPylon08 (44 polys, 132 verts) 'Wings'
+				LFlapLinkBox01 (60 polys, 180 verts) 'Wings'
+				Cannon01 (120 polys, 360 verts) 'Wings'
+				R_Spoiler (1914 polys, 5742 verts) 'Wings'
+				R_Gear_ROuterDoor (8 polys, 24 verts) 'Wings'
+				GunCamera (98 polys, 294 verts) 'Wings'
+				L_Flap_Key_FwdFlapLink03 (12 polys, 36 verts) 'Tailplane'
+				L_Flap_Key_FwdFlapLink04 (12 polys, 36 verts) 'Tailplane'
+				L_Flap_Key_FwdFlapLink11 (12 polys, 36 verts) 'Tailplane'
+				L_Flap_Key_FwdFlapLink13 (12 polys, 36 verts) 'Tailplane'
+					R_Flap_Key_LInnerFlap01 (39 polys, 117 verts) 'Wings'
+				R_Gear_RInnerDoor (34 polys, 102 verts) 'Wings'
+				RGearBay (163 polys, 489 verts) 'Wings'
+					Jack (117 polys, 351 verts) 'Tailplane'
+						Piston (39 polys, 117 verts) 'Chrome'
+				R_Gear_RUpper01 (264 polys, 792 verts) 'Tailplane'
+					R_Gear_RLowerLink01 (180 polys, 540 verts) 'Tailplane'
+						R_Gear_RCylinder01 (342 polys, 1026 verts) 'Tailplane'
+							r_tire_still (288 polys, 864 verts) 'Fueslage'
+					R_Gear_RTopLink01 (108 polys, 324 verts) 'Tailplane'
+				WingHinge06 (12 polys, 36 verts) 'Wings'
+				WingHinge10 (12 polys, 36 verts) 'Wings'
+				LPylon05 (44 polys, 132 verts) 'Wings'
+			RFillet (274 polys, 822 verts) 'Wings'
+			LFillet (274 polys, 822 verts) 'Wings'
+			LInnerWing (1954 polys, 5862 verts) 'Wings'
+				L_Gear_LUpper (264 polys, 792 verts) 'Tailplane'
+					L_Gear_LLowerLink (180 polys, 540 verts) 'Tailplane'
+						L_Gear_LPiston (342 polys, 1026 verts) 'Tailplane'
+							l_tire_still (288 polys, 864 verts) 'Fueslage'
+					L_Gear_LTopLink (108 polys, 324 verts) 'Tailplane'
+				l_wingfold_wing (1466 polys, 4398 verts) 'Wings'
+					PortOuterVane (20 polys, 60 verts) 'Wings'
+					Pitot (68 polys, 204 verts) 'Tailplane'
+					l_aileron (73 polys, 219 verts) 'Wings'
+					RearNavLightCover (58 polys, 174 verts) 'Canopy'
+					NavLightCover (14 polys, 42 verts) 'Canopy'
+					Flap_Brake_key_L (27 polys, 81 verts) 'Wings'
+					L_Spoiler_Upper (36 polys, 108 verts) 'Wings'
+					L_Spoiler_LBrakeCylinder (90 polys, 270 verts) 'Tailplane'
+						L_Spoiler_LBrakePiston (54 polys, 162 verts) 'Chrome'
+					Canon04 (120 polys, 360 verts) 'Wings'
+					WingHinge2 (12 polys, 36 verts) 'Wings'
+					WingHinge04 (12 polys, 36 verts) 'Wings'
+					LPylon02 (44 polys, 132 verts) 'Wings'
+					LPylon03 (44 polys, 132 verts) 'Wings'
+					LPylon04 (44 polys, 132 verts) 'Wings'
+				Cannon02 (120 polys, 360 verts) 'Wings'
+				L_Spoiler (1914 polys, 5742 verts) 'Wings'
+				LFlapLinkBox (60 polys, 180 verts) 'Wings'
+				LGearBay (163 polys, 489 verts) 'Wings'
+					Jack01 (117 polys, 351 verts) 'Tailplane'
+						Piston01 (39 polys, 117 verts) 'Chrome'
+				L_Gear_LOuterDoor (8 polys, 24 verts) 'Wings'
+				L_Gear_LInnerDoor (34 polys, 102 verts) 'Wings'
+				L_Flap_Key_FwdFlapLink (12 polys, 36 verts) 'Tailplane'
+					L_Flap_Key_InnerFlap (39 polys, 117 verts) 'Wings'
+				L_Flap_Key_FwdFlapLink02 (12 polys, 36 verts) 'Tailplane'
+				L_Flap_Key_FwdFlapLink05 (12 polys, 36 verts) 'Tailplane'
+				L_Flap_Key_FwdFlapLink09 (12 polys, 36 verts) 'Tailplane'
+				WingHinge1 (12 polys, 36 verts) 'Wings'
+				WingHinge03 (12 polys, 36 verts) 'Wings'
+				LPylon01 (44 polys, 132 verts) 'Wings'
+			WindscreenFrame (324 polys, 972 verts) 'Fueslage'
+				LWindShield (1 polys, 3 verts) 'Canopy'
+				RWindShield (1 polys, 3 verts) 'Canopy'
+				WindShield (2 polys, 6 verts) 'Canopy'
+				WiperArm (44 polys, 132 verts) 'Interior'
+					Wiper (28 polys, 84 verts) 'Interior'
+			VHFAerial (216 polys, 648 verts) 'Tailplane'
+			CameraBay (14 polys, 42 verts) 'Fueslage'
+			Camera (46 polys, 138 verts) 'Interior'
+			r_tailplane (68 polys, 204 verts) 'Tailplane'
+				r_elevator (226 polys, 678 verts) 'Tailplane'
+				StbdTailFin (20 polys, 60 verts) 'Tailplane'
+				LRadAlt01 (68 polys, 204 verts) 'Tailplane'
+			l_tailplane (68 polys, 204 verts) 'Tailplane'
+				l_elevator (226 polys, 678 verts) 'Tailplane'
+				StbdTailFin01 (20 polys, 60 verts) 'Tailplane'
+				LRadAlt (68 polys, 204 verts) 'Tailplane'
+			rudder (130 polys, 390 verts) 'Fueslage'
+			Tailhook_Position (148 polys, 444 verts) 'Fueslage'
+			C_Gear_PortTailGearDoor (30 polys, 90 verts) 'Fueslage'
+			C_Gear_StbdTailGearDoor (30 polys, 90 verts) 'Fueslage'
+			CameraWindow (15 polys, 45 verts) 'Canopy'
+			C_Gear_TailUpperCylinder (90 polys, 270 verts) 'Tailplane'
+				C_Wheel_TailWheelUpperLink (144 polys, 432 verts) 'Tailplane'
+					C_Gear_TailWheelLowerLink (144 polys, 432 verts) 'Tailplane'
+						c_tire_still (216 polys, 648 verts) 'Fueslage'
+						c_tire_blurred (216 polys, 648 verts) 'Fueslage'
+				C_Gear_TailLowerCylinder (54 polys, 162 verts) 'Tailplane'
+			IntakeSupport (20 polys, 60 verts) 'Fueslage'
+			PortExhau0 (161 polys, 483 verts) 'Fueslage'
+			PortExhau01 (161 polys, 483 verts) 'Fueslage'
+			PortExhaust (252 polys, 756 verts) 'Tailplane'
+			PortExhaust01 (252 polys, 756 verts) 'Tailplane'
+			Scoops (745 polys, 2235 verts) 'Fueslage'
+			StropHook (80 polys, 240 verts) 'Wings'
+			StropHook02 (80 polys, 240 verts) 'Wings'
+			Tailhook_Key_Piston (36 polys, 108 verts) 'Chrome'
+			UnderFuseAerial (12 polys, 36 verts) 'Tailplane'
+			Vent01 (50 polys, 150 verts) 'Wings'
+			Vent03 (50 polys, 150 verts) 'Wings'
+			Cylinder01 (70 polys, 210 verts) 'Fueslage'
+			F_Canopy (598 polys, 1794 verts) 'Fueslage'
+				CanopyGlass (396 polys, 1188 verts) 'Canopy'
+			Strobe_Housing (70 polys, 210 verts) 'Fueslage'
+				Strobe_Cover (216 polys, 648 verts) 'Canopy'
+			MB2 (716 polys, 2148 verts) 'Interior'
+			PropShaft (172 polys, 516 verts) 'Tailplane'
+			NoseInner (192 polys, 576 verts) 'Tailplane'
+				prop0_still (168 polys, 504 verts) 'Tailplane'
+					PropBlade13 (328 polys, 984 verts) 'Tailplane'
+					Cylinder02 (216 polys, 648 verts) 'Prop'
+					Cylinder05 (216 polys, 648 verts) 'Prop'
+				prop0_still_0 (48 polys, 144 verts) 'Tailplane'
+					PropBlade05 (328 polys, 984 verts) 'Tailplane'
+					Cylinder03 (216 polys, 648 verts) 'Prop'
+					Cylinder04 (216 polys, 648 verts) 'Prop'
+			NoseCowling (42 polys, 126 verts) 'Fueslage'
+			Intake (70 polys, 210 verts) 'Fueslage'
+		StbdPylon (254 polys, 762 verts) 'Tailplane'
+		CentrePylon (204 polys, 612 verts) 'Tailplane'
+		PortDropTank (518 polys, 1554 verts) 'Tailplane'
+		StbdDropTank (518 polys, 1554 verts) 'Tailplane'
+		PortPylon (254 polys, 762 verts) 'Tailplane'
+		FueslageIn (290 polys, 870 verts) 'CockpitSides'
+			CentrePane (519 polys, 1557 verts) 'Panels'
+				CompassDi0 (18 polys, 54 verts) 'Panels'
+				AIFront (83 polys, 249 verts) 'Panels'
+				kohlsman_s (2 polys, 6 verts) 'RightPanel'
+				ChartBoard (108 polys, 324 verts) 'Consoles'
+			LeftConsol (8 polys, 24 verts) 'Consoles'
+				ThrottleQu (87 polys, 261 verts) 'Cockpit04'
+					Throttle (216 polys, 648 verts) 'Cockpit04'
+						GGSGrip (216 polys, 648 verts) 'Cockpit04'
+					HPCock (660 polys, 1980 verts) 'Cockpit04'
+				GyroAnglin (88 polys, 264 verts) 'Cockpit04'
+				AirbrakesL (72 polys, 216 verts) 'Cockpit04'
+					AirbrakeLe (48 polys, 144 verts) 'Cockpit03'
+				OATGauge (134 polys, 402 verts) 'Cockpit04'
+				APIHousing (126 polys, 378 verts) 'Cockpit04'
+			LeftPanel (406 polys, 1218 verts) 'LeftHandPanel'
+				PadThing (6 polys, 18 verts) 'Cockpit02'
+			RightConso (11 polys, 33 verts) 'Consoles'
+			RightPanel (586 polys, 1758 verts) 'RightPanel'
+				Box03 (212 polys, 636 verts) 'RightHandDials'
+				RightHandD (126 polys, 378 verts) 'RightHandDials'
+			CockpitCoa (40 polys, 120 verts) 'CockpitSides'
+				GunSightSt (64 polys, 192 verts) 'Default'
+					SightPanel (195 polys, 585 verts) 'Cockpit03'
+				GunSightS0 (64 polys, 192 verts) 'Default'
+					SightPane0 (195 polys, 585 verts) 'Cockpit03'
+				SightMount (92 polys, 276 verts) 'Cockpit03'
+					Mk4GyroGun (580 polys, 1740 verts) 'CockpitSides'
+						Line01 (267 polys, 801 verts) 'CockpitSides'
+						Line02 (267 polys, 801 verts) 'CockpitSides'
+						Bolt03 (24 polys, 72 verts) 'Default'
+						Bolt03.Bolt02 (24 polys, 72 verts) 'Default'
+						GGSRanger (54 polys, 162 verts) 'CockpitSides'
+						Object01 (70 polys, 210 verts) 'CockpitSides'
+						Cylinder06 (126 polys, 378 verts) 'CockpitSides'
+						Bolt03.Bolt04 (24 polys, 72 verts) 'CockpitSides'
+						Bolt03.Bolt01 (24 polys, 72 verts) 'CockpitSides'
+						GunSightSe (154 polys, 462 verts) 'CockpitSides'
+						GGSBase (28 polys, 84 verts) 'CockpitSides'
+				SightMoun0 (92 polys, 276 verts) 'Cockpit03'
+			SwitchBox (110 polys, 330 verts) 'Cockpit02'
+			CanopyWind (158 polys, 474 verts) 'Cockpit03'
+				CanopyWin0 (308 polys, 924 verts) 'Cockpit03'
+			ForeAft (46 polys, 138 verts) 'Cockpit03'
+				ControlCol (296 polys, 888 verts) 'Cockpit03'
+					FireButton (54 polys, 162 verts) 'RightPanel'
+					FireButto0 (54 polys, 162 verts) 'RightPanel'
+		E2B (736 polys, 2208 verts) 'Cockpit02'
+			MagCompass (288 polys, 864 verts) 'Cockpit03'
+
+
+Num Nodes: 193
+Total:    (36691 polys, 110073 verts)
+Mesh Max: (1954 polys, 5862 verts)
+
+17 Materials:
+ (  1) Fueslage:
+       Fueslage.bmp
+ (  2) Wings:
+       Wings.bmp
+ (  3) Canopy:
+       Transparency enabled
+       Neutral.tga
+ (  4) Tailplane:
+       Tail.bmp
+ (  5) Chrome:
+       <No Texture>
+ (  6) Interior:
+       Cockpit.bmp
+ (  7) Prop:
+       Transparency enabled
+       Prop.tga
+ (  8) CockpitSides:
+       CockpitSides.bmp
+ (  9) Panels:
+       Panels.bmp
+ ( 10) RightPanel:
+       RightPanel.bmp
+ ( 11) Consoles:
+       Consoles.bmp
+ ( 12) Cockpit04:
+       Cockpit04.bmp
+ ( 13) Cockpit03:
+       Cockpit03.bmp
+ ( 14) LeftHandPanel:
+       LeftHandPanel.bmp
+ ( 15) Cockpit02:
+       Cockpit02.bmp
+ ( 16) RightHandDials:
+       RightHandDials.bmp
+ ( 17) Default:
+       <No Texture>
+
+15 Textures:
+Fueslage.bmp
+Wings.bmp
+Neutral.tga
+Tail.bmp
+Cockpit.bmp
+Prop.tga
+CockpitSides.bmp
+Panels.bmp
+RightPanel.bmp
+Consoles.bmp
+Cockpit04.bmp
+Cockpit03.bmp
+LeftHandPanel.bmp
+Cockpit02.bmp
+RightHandDials.bmp
