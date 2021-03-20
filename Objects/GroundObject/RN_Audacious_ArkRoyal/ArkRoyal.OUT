@@ -1,0 +1,27 @@
+	mesh10 (54 polys, 162 verts) '1 - Default'
+	mesh09 (68 polys, 204 verts) '9 - Default'
+	mesh24 (68 polys, 204 verts) '9 - Default'
+	mesh25 (54 polys, 162 verts) '1 - Default'
+	mesh06 (10 polys, 30 verts) '1 - Default'
+	mesh22 (10 polys, 30 verts) '1 - Default'
+	mesh07 (62 polys, 186 verts) '8 - Default'
+	mesh08 (62 polys, 186 verts) '9 - Default'
+	mesh21 (8 polys, 24 verts) '9 - Default'
+	mesh20 (111 polys, 333 verts) '1 - Default'
+	mesh19 (111 polys, 333 verts) '1 - Default'
+	mesh17 (2894 polys, 8682 verts) '1 - Default'
+	mesh16 (1038 polys, 3114 verts) 'material01'
+	mesh15 (10 polys, 30 verts) '2 - Default'
+	mesh14 (13 polys, 39 verts) '2 - Default'
+	Hull (750 polys, 2250 verts) '1 - Default'
+	mesh12 (902 polys, 2706 verts) '1 - Default'
+	mesh11 (2248 polys, 6744 verts) '1 - Default'
+	mesh04 (112 polys, 336 verts) '1 - Default'
+	mesh03 (534 polys, 1602 verts) '1 - Default'
+	mesh05 (138 polys, 414 verts) '7 - Default'
+	FlightDeck (79 polys, 237 verts) '1 - Default'
+	mesh23 (28 polys, 84 verts) '3 - Default'
+
+
+Total:    (9364 polys, 28092 verts)
+Mesh Max: (2894 polys, 8682 verts)
