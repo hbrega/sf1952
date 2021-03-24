@@ -1,0 +1,33 @@
+Hawker Hunter F.6M for STRIKE FIGHTERS 2 
+
+(Requires SF2 DLC 001: Hunter F.6 (60) Royal Netherlands Air Force)
+
+This is a very simple mod of the above to give a fictional Hunter F.6M in service with RAF South Atlantic Command with markings for No.1435 Flight. You will need to have the new 'DLC' Hunter as this mod will not work with any Hunter that isn't DLC 001 although you are welcome to reverse engineer it to suit what Hunter(s) you have in your install.
+
+
+BACKSTORY
+
+The introduction of the Lightning F.1 and F.1A into RAF Fighter Command in 1960 and 1961 began to free-up Hunter F.6's most of which were earmarked for conversion into ground-attack aircraft for the RAF (as the FGA.9) or for export. But the Falklands Crisis of May 1961 led to the decision to base a detachment of fighter aircraft at RAF Stanley and a batch of 8 Hawker Hunter F.6's were urgently converted into F.6M's a minimum-change conversion armed with the Firestreak missile and improved navigation and radio equipment. The first four Hunter F.6M's were dispatched as 
+deck cargo arriving at Port Stanley in September 1961 to form No.1435 Flight who quickly christened the aircraft Faith, Hope, Charity and Desperation. The second batch of Hunters arrived in December 1961 but, with improving diplomatic relations, they were basically used to keep the original four aircraft airworthy until a rotation policy was adopted. The Hunter F.6M's served until 1972 when they were replaced by Lightning F.2A's.
+
+
+INSTRUCTIONS
+
+1. From the AIRCRAFT folder drag and drop the HunterF6M folder into your Aircraft folder.
+
+2. From the DECALS folder drag and drop the HunterF6M folder into your Decals folder.
+
+
+CREDITS
+
+As always, thanks to Third Wire for a great little game/sim.
+
+And, finally, thanks to everyone in the wider Third Wire community.
+
+Regards 
+
+Spinners
+
+Version 2 - 24/05/2020
+
+Version 1 - 25/06/2011
