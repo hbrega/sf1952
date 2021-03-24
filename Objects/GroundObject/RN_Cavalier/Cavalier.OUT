@@ -1,0 +1,18 @@
+	Hull (2734 polys, 8202 verts) '1 - Default'
+		mesh07 (128 polys, 384 verts) '8 - Default'
+		Turret (84 polys, 252 verts) '1 - Default'
+			Gun (44 polys, 132 verts) '1 - Default'
+		mesh01 (212 polys, 636 verts) '1 - Default'
+		Seacat3 (468 polys, 1404 verts) '7 - Default'
+		Seacat1 (468 polys, 1404 verts) '7 - Default'
+		Seacat4 (468 polys, 1404 verts) '7 - Default'
+		Seacat2 (468 polys, 1404 verts) '7 - Default'
+		Launcher (364 polys, 1092 verts) '7 - Default'
+		Deck (97 polys, 291 verts) '3 - Default'
+		mesh03 (28 polys, 84 verts) '2 - Default'
+		mesh02 (212 polys, 636 verts) '1 - Default'
+		Superstructure (392 polys, 1176 verts) '1 - Default'
+
+
+Total:    (6167 polys, 18501 verts)
+Mesh Max: (2734 polys, 8202 verts)
